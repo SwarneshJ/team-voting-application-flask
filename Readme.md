@@ -1,4 +1,8 @@
-**Flask voting application**
+**Team voting application**
+
+This is a flask web application replica of the team-voting-application-springboot created by me.
+
+https://team-voting-application.herokuapp.com/
 
 Steps to run the application:
 
